@@ -1,0 +1,38 @@
+body{background-color: azure;margin:0}
+header {background-color:#4a1c40;color:white;display:flex;
+        justify-content:space-between;align-items:center;padding:20px;}
+.mainmenu a{color:white;padding:5px;text-decoration:none;font-weight:bold;}
+.mainmenu a:hover{color:#a7809e}
+.hero{background:url("freepik__the-style-is-candid-image-photography-with-natural__56395.png") center/cover no-repeat;
+      justify-content:center;align-items:center;padding:120px 25px;color:white;color:white;
+       display:block;text-align:center;}
+.why{display:flex;justify-content:space;gap:20px;padding:30px;}
+.cards{background-color:white;border-radius:20px;box-shadow:0 12px 20px;padding:10px;
+       gap:20px;width:400px;transition:all 2s ease;text-align:center;}
+h2{text-align:center;margin-top:50px;}
+.cards:hover{transform:translateY(10px)}
+.suit{display:flex;justify-content:space;gap:20px;padding:20px;margin-left:70px;margin-right:70px;
+       flex-wrap:wrap;}
+.room{border-radius:20px;padding:10px;text-align:center;transition:all 2s ease;font-weight:bold;}
+.room:hover{transform:scale(1.2);}
+.feedback{display:flex;justify-content:space;gap:20px;padding:30px;}
+.review{background-color:white;border-radius:20px;box-shadow:0 12px 20px;padding:10px;
+       gap:20px;width:400px;transition:all 2s ease;text-align:center;}
+.review:hover{transform:translateY(10px)}
+footer{background-color:#4a1c40;color:white;text-align:center;padding:20px;margin-top:20px;}
+.southindian{display:grid;gap:10px;padding:30px;grid-template-columns:1fr 1fr 1fr;min-width:fit-content;}
+.sfood{border-radius:20px;padding:10px;transition:all 2s ease;text-align:center;width:auto;}
+.food {text-align:center;font-weight:bold;margin:10px;padding:10px;}
+.food a{text-decoration:none;padding:10px;background-color:#9e8599;border-radius:10px;}
+.food a:hover{color:white;}
+.hydview{text-align:center;margin:0px;}
+.tour{display:grid;grid-template-columns:1fr 1fr;margin-top:40px;padding:20px;text-align:center;}
+.about{background-color:white;width:800px;border-radius:20px;text-align:center;margin:auto;
+        box-shadow:0 12px 20px;}
+.booking{display:grid;place-items:center;gap:10px;}
+button{background-color: #4a1c40;color:white;font-size:18px;font-weight:bold;padding:15px;
+       margin:20px;border-radius:20px;transition:all 2s ease;}
+button:hover{color:#a7809e;}
+
+
+
